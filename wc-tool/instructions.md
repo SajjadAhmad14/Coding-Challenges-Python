@@ -2,11 +2,15 @@
 
 # 1. Add a Shebang to Your Script
 
-#!/usr/bin/env python3
+# #!/usr/bin/env python3
 
 # 2. Make the File Executable
 
 # chmod +x ccwc.py
+
+# Rename the script
+
+# mv ccwc.py ccwc
 
 # 3. Create a symlink to your script:
 
